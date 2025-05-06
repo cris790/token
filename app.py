@@ -93,7 +93,7 @@ def process_token(uid, password):
     game_data.timestamp = "2024-12-05 18:15:32"
     game_data.game_name = "free fire"
     game_data.game_version = 1
-    game_data.version_code = "1.108.3"
+    game_data.version_code = "1.109.16"
     game_data.os_info = "Android OS 9 / API-28 (PI/rel.cjw.20220518.114133)"
     game_data.device_type = "Handheld"
     game_data.network_provider = "Verizon Wireless"
